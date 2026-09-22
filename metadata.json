@@ -1,0 +1,6 @@
+{
+  "name": "Cherry AI Admin Portal",
+  "description": "Dedicated Admin Frontend SPA for Cherry AI managing plans, subscriptions, multi-tier referral commissions, payout requests, fraud control, and announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
